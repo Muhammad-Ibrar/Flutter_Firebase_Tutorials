@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398889789210",
+    "project_id": "dummy-24462",
+    "storage_bucket": "dummy-24462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398889789210:android:5d901025de34a4a3766ea3",
+        "android_client_info": {
+          "package_name": "com.teachase.Dummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398889789210-5mejrfncb6avuhi3abcaldk6hrnj8gll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsErjWuiNPDzmKFvJlM_QngN2NSuVc2dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398889789210-5mejrfncb6avuhi3abcaldk6hrnj8gll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
